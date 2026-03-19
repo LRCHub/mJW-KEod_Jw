@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Torches",
+  "base_artist": "Aimer",
+  "createdAt": "2026-03-19T16:37:28.627345Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Torches",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/01_Torches_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "With the Gleam of the Torches",
+      "artist": "Samael",
+      "has_synced": true,
+      "path": "select/02_With_the_Gleam_of_the_Torches_Samael.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Torches",
+      "artist": "Rise Against",
+      "has_synced": true,
+      "path": "select/03_Torches_Rise_Against.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Torches",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/04_Torches_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Torches",
+      "artist": "X Ambassadors",
+      "has_synced": true,
+      "path": "select/05_Torches_X_Ambassadors.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Torches",
+      "artist": "Lamb of God",
+      "has_synced": true,
+      "path": "select/06_Torches_Lamb_of_God.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Torches",
+      "artist": "Rise Against",
+      "has_synced": true,
+      "path": "select/07_Torches_Rise_Against.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stakes And Torches",
+      "artist": "Aurelio Voltaire",
+      "has_synced": true,
+      "path": "select/08_Stakes_And_Torches_Aurelio_Voltaire.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tiki Torches At Twilight",
+      "artist": "David Lindley & El Rayo-X",
+      "has_synced": false,
+      "path": "select/09_Tiki_Torches_At_Twilight_David_Lindley_&_El_Rayo-X.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tiki Torches At Twilight",
+      "artist": "David Lindley",
+      "has_synced": false,
+      "path": "select/10_Tiki_Torches_At_Twilight_David_Lindley.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Torches",
+      "artist": "Daughtry",
+      "has_synced": true,
+      "path": "select/11_Torches_Daughtry.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A Torch To End All Torches",
+      "artist": "Thrice",
+      "has_synced": true,
+      "path": "select/12_A_Torch_To_End_All_Torches_Thrice.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Torches (Demo)",
+      "artist": "Rise Against",
+      "has_synced": true,
+      "path": "select/13_Torches_(Demo)_Rise_Against.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fallen Torches",
+      "artist": "Mastodon",
+      "has_synced": false,
+      "path": "select/14_Fallen_Torches_Mastodon.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Torches",
+      "artist": "Karl Jenkins",
+      "has_synced": true,
+      "path": "select/15_Torches_Karl_Jenkins.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Torches Together",
+      "artist": "mewithoutYou",
+      "has_synced": true,
+      "path": "select/16_Torches_Together_mewithoutYou.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Torches",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_Torches_Aimer.txt"
+    }
+  ]
+}
